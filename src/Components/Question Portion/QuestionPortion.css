@@ -1,0 +1,32 @@
+.carousel .slide {
+    min-width: 100vw;
+    margin: 0;
+    height: 100vh;
+    position: relative;
+    text-align: center;
+}
+/* 
+
+.slide  {
+    height: 50%;
+    width: 50%;
+    padding-left: 0px;
+    padding-right: 500px;
+    padding-top: 50px;
+} */
+/* 
+.carousel-root {
+    width: 100%;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .carousel-root {
+      width: 50%;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .carousel-root {
+      width: 30%;
+    }
+  } */

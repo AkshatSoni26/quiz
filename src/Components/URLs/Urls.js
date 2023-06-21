@@ -1,0 +1,1 @@
+export const QuizDataAPI = "https://api.esaral.com/v2/quizes/get-quiz-question-details?quiz_id=42"
